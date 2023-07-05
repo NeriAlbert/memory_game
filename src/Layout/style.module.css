@@ -1,0 +1,13 @@
+.layout {
+  width: 100vw;
+  height: 100vh;
+  overflow-y: scroll;
+  background-image: url("src\\img\\imgBody.jpg");
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5%;
+  padding: 3%;
+}
